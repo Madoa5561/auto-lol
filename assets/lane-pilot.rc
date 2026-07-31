@@ -1,0 +1,3 @@
+#define IDI_LANE_PILOT 101
+
+IDI_LANE_PILOT ICON "assets\\lane-pilot.ico"
